@@ -6,9 +6,7 @@ A curated collection of React projects showcasing diverse applications and compo
 | Project Name       | Description           | Source Code                         | Live Demo                           |
 |--------------------|-----------------------|-------------------------------------|-------------------------------------|
 | Countries     | An application showcasing information about countries.| [GitHub](https://github.com/Tahrim19/Countries.git) | [Live Demo](https://countries-tan-ten.vercel.app/)      |
-
 | Weater-Forecast    | A weather forecasting application providing the current weather of searched cities.  | [GitHub](https://github.com/Tahrim19/Weather-Forecast.git)  | [Live Demo](https://weather-forecast-flame-one.vercel.app/) |
-
 | iOs-Styled-Calculator     | A sleek calculator app with an iOS-inspired design| [GitHub](https://github.com/Tahrim19/iOS-Styled-Calculator.git)              | [Live Demo](https://i-os-styled-calculator.vercel.app/)      |
 
 ## Contributing
