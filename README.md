@@ -12,7 +12,7 @@ A curated collection of React projects showcasing diverse applications and compo
   | Checkers| A classic checkers game built with React.js for an interactive and responsive gaming experience. | [Github](https://github.com/Tahrim19/Checkers-Game.git) |[demo](https://checkers-game-xi.vercel.app/) |
   | Amazon Clone | Used ReactJS, Material UI, API, Firebase to clone the Amazon website. | [Repo](https://github.com/Tahrim19/Amazon-Clone.git) | [demo](https://amazon-clone-rho-ecru.vercel.app/)|
   |Netflix Clone | Used ReactJS, MUI , TMDB API , Firebase, Authentication to clone the Netflix website. |[Repo](https://github.com/Tahrim19/Netflix-clone.git) |[demo]( https://netflix-clone-ecru-chi.vercel.app/) |
-<!-- | Expense-Tracker | - | [Github](https://github.com/Tahrim19/Expense-Tracker.git) | [Demo](https://expense-tracker-rouge-five.vercel.app/) | -->
+| Expense-Tracker | - | [Github](https://github.com/Tahrim19/Expense-Tracker.git) | [Demo](https://expense-tracker-rouge-five.vercel.app/) |
 
 
 ## Contributing
