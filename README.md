@@ -14,7 +14,7 @@ A curated collection of React projects showcasing diverse applications and compo
   |Netflix Clone | Used ReactJS, MUI , TMDB API , Firebase, Authentication to clone the Netflix website. |[Repo](https://github.com/Tahrim19/Netflix-clone.git) |[demo]( https://netflix-clone-ecru-chi.vercel.app/) |
 | Expense Tracker | Simple Expense tracker with CRUD operations and custom hook of local storage.| [Github](https://github.com/Tahrim19/Expense-Tracker.git) | [Demo](https://expense-tracker-rouge-five.vercel.app/) |
 | Notes App | A simple notes built using Reactjs, ContextAPI and Local Storage with CRUD operations. | [Repo](https://github.com/Tahrim19/Notes-app.git) |[Demo](https://notes-app-iota-drab-14.vercel.app) |
-| Anime Dashboard | An anime dashboard built with ReactJS using the Jikan API, featuring a responsive layout using Tailwindcss, ReactIcon, pagination, and detailed views of anime, along with custom charts and interactive components  | [Repo](https://github.com/Tahrim19/dashboard.git) |[Demo](https://anime-dashboard-rho.vercel.app/) |
+| Anime Dashboard | An anime dashboard built with ReactJS using the Jikan API, featuring a responsive layout using Tailwindcss, ReactIcon, pagination, and detailed views of anime, along with custom charts and interactive components and Firebase authentication.  | [Repo](https://github.com/Tahrim19/dashboard.git) |[Demo](https://anime-dashboard-rho.vercel.app/) |
 
 
 ## Contributing
