@@ -17,8 +17,9 @@ A curated collection of React projects showcasing diverse applications and compo
 | Anime Dashboard | An anime dashboard built with ReactJS using the Jikan API, featuring a responsive layout using Tailwindcss, ReactIcon, pagination, and detailed views of anime, along with custom charts and interactive components and Firebase authentication.  | [Repo](https://github.com/Tahrim19/dashboard.git) |[Demo](https://anime-dashboard-rho.vercel.app/) |
 | Chart App | Exploring Recharts: A Reactjs charting library. |[Repo](https://github.com/Tahrim19/Chart-app.git) |[Demo](https://chart-app-wine.vercel.app/)|
 | Chatty | Learning how to integrate Google Gemini API into Reactjs | [Repo](https://github.com/Tahrim19/chatbot.git) | [Demo](https://chatbot-kappa-five.vercel.app/) |
-| React Admin Dashbord | Learning how to make an admin dashboard using industry level packages. | [Repo](https://github.com/Tahrim19/admin-dashboard.git) | [Demo](https://admin-dashboard-mu-red-29.vercel.app/)
-| Blog App | Create a simple blog app using Reactjs and Firebase Authentication and Firestore | [Repo](https://github.com/Tahrim19/Firebase-IAD.git) | [Demo](https://firebase-iad.vercel.app/)
+| React Admin Dashbord | Learning how to make an admin dashboard using industry level packages. | [Repo](https://github.com/Tahrim19/admin-dashboard.git) | [Demo](https://admin-dashboard-mu-red-29.vercel.app/) |
+| Project Management App | A simple project management application with CRUD using Reactjs, Nodejs and Express js. | [Repo](https://github.com/Tahrim19/IAD_Assignment.git) | [Demo](https://iad-assignment.vercel.app/) |
+| Blog App | Create a simple blog app using Reactjs and Firebase Authentication and Firestore | [Repo](https://github.com/Tahrim19/Firebase-IAD.git) | [Demo](https://firebase-iad.vercel.app/) |
 
 ## Contributing
 If you'd like to contribute to any of these projects, feel free to fork them and submit a pull request.
