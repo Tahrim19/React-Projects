@@ -21,6 +21,7 @@ A curated collection of React projects showcasing diverse applications and compo
 | Project Management App | A simple project management application with CRUD using Reactjs, Nodejs and Express js. | [Repo](https://github.com/Tahrim19/IAD_Assignment.git) | [Demo](https://iad-assignment.vercel.app/) |
 | Blog App | Create a simple blog app using Reactjs and Firebase Authentication and Firestore | [Repo](https://github.com/Tahrim19/Firebase-IAD.git) | [Demo](https://firebase-iad.vercel.app/) |
 | Inventory Management | A simple inventory management application using ReactJS for client side and JAVA for server side. Used design patterns and OOP principals. | [Repo](https://github.com/Tahrim19/Inventory-.git) | - |
+| Mind Map | A minimal MERN stack mind mapping application to visually connect and organize ideas. | [Repo](https://github.com/Tahrim19/mind-map.git) | [Demo](https://mind-map-ivory.vercel.app/)
 
 ## Contributing
 If you'd like to contribute to any of these projects, feel free to fork them and submit a pull request.
