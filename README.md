@@ -18,6 +18,7 @@ A curated collection of React projects showcasing diverse applications and compo
 | Chart App | Exploring Recharts: A Reactjs charting library. |[Repo](https://github.com/Tahrim19/Chart-app.git) |[Demo](https://chart-app-wine.vercel.app/)|
 | Chatty | Learning how to integrate Google Gemini API into Reactjs | [Repo](https://github.com/Tahrim19/chatbot.git) | [Demo](https://chatbot-kappa-five.vercel.app/) |
 | React Admin Dashbord | Learning how to make an admin dashboard using industry level packages. | [Repo](https://github.com/Tahrim19/admin-dashboard.git) | [Demo](https://admin-dashboard-mu-red-29.vercel.app/) |
+| Eventify | A simple full-stack project with a React.js frontend, an Express.js (Node.js) backend, and a MySQL database. | [Repo](https://github.com/Tahrim19/Eventify.git) | - |
 | Project Management App | A simple project management application with CRUD using Reactjs, Nodejs and Express js. | [Repo](https://github.com/Tahrim19/IAD_Assignment.git) | [Demo](https://iad-assignment.vercel.app/) |
 | Blog App | Create a simple blog app using Reactjs and Firebase Authentication and Firestore | [Repo](https://github.com/Tahrim19/Firebase-IAD.git) | [Demo](https://firebase-iad.vercel.app/) |
 | Inventory Management | A simple inventory management application using ReactJS for client side and JAVA for server side. Used design patterns and OOP principals. | [Repo](https://github.com/Tahrim19/Inventory-.git) | - |
